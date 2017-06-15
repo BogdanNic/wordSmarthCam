@@ -1,0 +1,2 @@
+# wordSmarthCam
+My licenta 
